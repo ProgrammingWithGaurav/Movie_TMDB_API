@@ -1,0 +1,7 @@
+uvicorn
+pydantic
+fastapi
+requests
+typing
+os
+python-dotenv

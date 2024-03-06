@@ -1,0 +1,7 @@
+# write a gitignore - for python
+
+# pycahche filse
+__pycache__/
+
+# env
+.env
