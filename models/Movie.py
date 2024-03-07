@@ -10,7 +10,7 @@ class Movie(BaseModel):
     vote_count: Optional[int] = None
     popularity: Optional[float] = None
     poster_path: Optional[str] = None
-    originalLanguage: Optional[str] = None
+    original_language: Optional[str] = None
     original_title: Optional[str] = None
     genre_ids: Optional[List[int]] = None
     backdrop_path: Optional[str] = None
